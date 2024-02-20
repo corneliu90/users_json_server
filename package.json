@@ -18,6 +18,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "deploy": "gh-pages -d src",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -47,7 +48,7 @@
     "json-server": "^0.17.4"
   },
   "main": "index.js",
-  "homepage": "https://corneliu90@github.io/",
+  "homepage": "https://corneliu90@github.io/users_json_server",
   "keywords": [],
   "author": "",
   "license": "ISC",
